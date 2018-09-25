@@ -1,5 +1,8 @@
 _repo: Index-for-the-Project-Gutenberg-Series-American-Pioneers-and-Patriots_57588
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Abbott, John S. C. (John Stevens Cabot)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57588#Index-for-the-Project-Gutenberg-Series-American-Pioneers-and-Patriots
 gutenberg_issued: '2018-07-27'
 gutenberg_type: Text
 identifiers:
